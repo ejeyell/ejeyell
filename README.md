@@ -7,26 +7,6 @@ I'm an IT student at **Bohol Island State University (BISU)** who enjoys explori
 
 <hr>
 
-### 🧰 Tech Stack
-- Java, PHP, JavaScript
-- HTML, CSS, MySQL
-- Git, NetBeans, VS Code
-- Kali Linux, Burp Suite
-
-<hr>
-
-### 🚀 Interests
-- Software & Web Development
-- Cybersecurity
-- Linux & Networking
-- Game Development 🎮
-
-<hr>
-
-### 📂 Projects
-- AutoChoice – Used-Car Sales System
-- Library Management System
-- Web Development Projects
 
 <hr>
 
