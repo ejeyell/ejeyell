@@ -1,5 +1,38 @@
-# 💫 About Me:
-# Hi, I'm JELZE! 👋<br><br>💻 **BSIT Student | Aspiring Developer | Tech Enthusiast**<br><br>I'm an Information Technology student at **Bohol Island State University (BISU)**, interested in software development, web technologies, cybersecurity, and game development.<br><br>I enjoy exploring how things work, learning new technologies, and building projects that help me improve my programming and problem-solving skills.<br><br>### 🚀 About Me<br>- 🎓 Bachelor of Science in Information Technology student<br>- 💻 Interested in Software Development and Web Development<br>- 🔐 Exploring Cybersecurity and Ethical Hacking<br>- 🎮 Interested in Game Development<br>- 🐧 Learning Linux, Kali Linux, and networking<br>- 🛠️ Building academic and personal programming projects<br>- 📚 Always learning and improving my skills<br><br>### 🧰 Technologies & Tools<br><br>**Languages**<br>- Java<br>- PHP<br>- JavaScript<br>- HTML & CSS<br>- SQL<br><br>**Tools & Platforms**<br>- Git & GitHub<br>- NetBeans<br>- Visual Studio Code<br>- XAMPP<br>- MySQL<br>- Kali Linux<br>- Oracle VirtualBox<br>- Burp Suite<br><br>### 📂 Projects<br><br>Some projects I've worked on during my IT journey:<br><br>- **AutoChoice** – Used-car sales management system built with Java Swing and MySQL.<br>- **Library Management System** – A desktop application for managing library records.<br>- **Web Development Projects** – Academic projects using HTML, CSS, PHP, JavaScript, and MySQL.<br><br>### 🎯 Current Goals<br>- Improve my programming and problem-solving skills.<br>- Build more real-world web applications.<br>- Learn more about cybersecurity and networking.<br>- Explore game development and 3D technologies.<br>- Become a better developer through continuous practice.<br><br>---<br><br>Childhood dream - Game Developer<br><br><br>*"Still learning, still building, and always curious about what's possible."*<br><br>⭐ Thanks for visiting my profile!
+# 💫 About Me
+
+Hi, I'm **JELZE!** 👋  
+💻 BSIT Student | Aspiring Developer
+
+I'm an IT student at **Bohol Island State University (BISU)** who enjoys exploring technology, programming, and how things work.
+
+<hr>
+
+### 🧰 Tech Stack
+- Java, PHP, JavaScript
+- HTML, CSS, MySQL
+- Git, NetBeans, VS Code
+- Kali Linux, Burp Suite
+
+<hr>
+
+### 🚀 Interests
+- Software & Web Development
+- Cybersecurity
+- Linux & Networking
+- Game Development 🎮
+
+<hr>
+
+### 📂 Projects
+- AutoChoice – Used-Car Sales System
+- Library Management System
+- Web Development Projects
+
+<hr>
+
+🎮 **Childhood Dream:** Game Developer
+
+*"Still learning, still building."*
 
 
 # 💻 Tech Stack:
