@@ -8,7 +8,7 @@ I'm an IT student at **Bohol Island State University (BISU)** who enjoys explori
 <hr>
 
 
-<hr>
+
 
  **Childhood Dream:** Game Developer
 
