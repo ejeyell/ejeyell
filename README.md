@@ -9,7 +9,7 @@ I'm an IT student at **Bohol Island State University (BISU)** who enjoys explori
 <hr>
 
 
-<h2 data-importer="text" align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+
 
 ###
 
@@ -43,7 +43,7 @@ I'm an IT student at **Bohol Island State University (BISU)** who enjoys explori
 </div>
 
 ###
-
+<hr>
  <!-- Dream that left Behind : Game Developer -->
 
 <!-- <b>Still learning, still building.</b> -->
