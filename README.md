@@ -12,8 +12,11 @@ I'm an IT student at **Bohol Island State University (BISU)** who enjoys explori
 </div>
 <br>
 
-![](https://github-readme-stats.shion.dev/api?username=ejeyell&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://streak-stats.demolab.com/?user=ejeyell&theme=dark&hide_border=false)
+<div align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=ejeyell&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=ejeyell&theme=dark&hide_border=false" height="165" />
+
+</div>
 
 
 
