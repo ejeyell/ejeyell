@@ -6,12 +6,12 @@ Hi, I'm **JEYELL GALLOGO ELLE**
 I'm an IT student at **Bohol Island State University (BISU)** who enjoys exploring technology, programming, and how things work.
 
 <hr>
-
+<br>
 <div align="center">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ejeyell&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </div>
 <br>
-
+<br>
 <div align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=ejeyell&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="165" />
   <img src="https://streak-stats.demolab.com/?user=ejeyell&theme=dark&hide_border=false" height="165" />
@@ -19,7 +19,7 @@ I'm an IT student at **Bohol Island State University (BISU)** who enjoys explori
 </div>
 
 
-
+<br>
 
 
 <h2 data-importer="text" align="left"></h2>
