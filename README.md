@@ -6,9 +6,9 @@ Hi, I'm **JEYELL GALLOGO ELLE**
 I'm an IT student at **Bohol Island State University (BISU)** who enjoys exploring technology, programming, and how things work.
 
 <hr>
- Dream that left Behind : Game Developer
+ <!-- Dream that left Behind : Game Developer -->
 
-<b>Still learning, still building.</b>
+<!-- <b>Still learning, still building.</b> -->
 
 <!--#  Tech Stack: -->
 # Things I Encountered With:
