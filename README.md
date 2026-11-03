@@ -9,20 +9,19 @@ I'm an IT student at **Bohol Island State University (BISU)** who enjoys explori
 <hr>
 
 
+
+
 <h2 data-importer="text" align="left"></h2>
 
 ###
 
-<img data-importer="image" align="right" height="150" src="https://media.tenor.com/4XDjR7Y2GcwAAAAM/eren-freedom.gif"  />
-
-
-
-
-
-
-
+<img data-importer="image" align="right" height="150" src="https://media1.tenor.com/m/xgDkYtUiMYYAAAAd/skirk-genshin-impact.gif"  />
 
 ###
+
+<div data-importer="techs" align="left">
+</div>
+
 <!--
 <div data-importer="techs" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
